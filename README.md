@@ -1,2 +1,5 @@
 PROGRAMACION 3
-Este proyecto fue iniciado por Juan Diosa y Brayan Zamora está colaborando. Mi nombre es Juan
+Este proyecto fue creado por Diosa y  Zamora está colaborando. Mi nombre es Juan. Mi nombre es Brayan.
+
+Mi nombre es Juan Manuel Diosa
+Mi nombre es Brayan zamora
